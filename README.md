@@ -1,6 +1,12 @@
 # Get Hardware Info
 This repository is a .NET Windows Forms application is a system information utility designed to retrieve and display hardware and system details using Windows Management Instrumentation (WMI). Here's a detailed breakdown:
 ### Source code designed by *Alireza shirazi*
+```
+// Source code designed by Alireza shirazi
+// www.ShiraziOnline.net
+// year 2007
+// This source code is absolutely FREE ! Do whatever you want to do with it ;)
+```
 ![Application Image](https://github.com/MhSaleemAlZayat/GetHardwareInfo/blob/main/Get%20Hardware%20Information%20Application%20Image.png?raw=true)
 
 
